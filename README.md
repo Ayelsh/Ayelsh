@@ -1,7 +1,11 @@
-# 关于我
+# 阿耶/Ayelsh | Java开发工程师
+📱 157-6820-6596 | 📧 Ayelsh.ye@outlook.com  
+📍 广州 | 💻 [GitHub](https://github.com/Ayelsh/Ayelsh)
 
-* 这里是阿耶/Ayelsh,平平无奇的JAVA小白，不定时更新自己的博客
-  
+---
+
+## 教育背景
+| 网络工程 | 本科 | 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayelsh/Ayelsh/output/github-contribution-grid-snake-dark.svg">
