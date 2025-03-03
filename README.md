@@ -1,7 +1,8 @@
 # 关于我
 
 * 这里是阿耶/Ayelsh,平平无奇的JAVA小白，不定时更新自己的博客
-  
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=Ayelsh)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayelsh/Ayelsh/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayelsh/Ayelsh/output/github-contribution-grid-snake.svg">
