@@ -1,5 +1,5 @@
 # 阿耶/Ayelsh | Java开发工程师
-📱 157-6820-6596 | 📧 Ayelsh.ye@outlook.com  
+📧 Ayelsh.ye@outlook.com  
 📍 广州 | 💻 [GitHub](https://github.com/Ayelsh/Ayelsh)
 
 ---
